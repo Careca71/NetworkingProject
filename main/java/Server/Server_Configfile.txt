@@ -1,0 +1,23 @@
+#Indirizzo del server
+SERVER=192.168.43.32
+
+#Porta TCP del server
+TCPPORT=8080
+
+#Indirizzo di multicast
+MULTICAST=239.255.32.32
+
+#Porta di multicast
+MCASTPORT=44444
+
+#Host su cui si trova il registry
+REGHOST=localhost
+
+#Porta del registry RMI
+RMIPORT=3000
+
+#Porta notify rmi
+NOTIFYPORT=3001
+
+#Timeout della socket
+TIMEOUT=40000

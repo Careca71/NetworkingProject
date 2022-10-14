@@ -1,0 +1,47 @@
+{
+  "users" : {
+    "G.donnarumma" : {
+      "nickname" : "G.donnarumma",
+      "password" : "gigio1",
+      "tags" : [ "italia", "musica", "psg" ],
+      "wallet" : 0.0,
+      "transation" : { }
+    },
+    "C.ronaldo" : {
+      "nickname" : "C.ronaldo",
+      "password" : "cr7",
+      "tags" : [ "champions", "musica", "portogallo", "juve" ],
+      "wallet" : 2.879441541679833,
+      "transation" : {
+        "increase192-2" : 0.0,
+        "increase192-1" : 0.0,
+        "increase849-1" : 1.3862943611198906,
+        "increase849-2" : 0.0
+      }
+    },
+    "L.messi" : {
+      "nickname" : "L.messi",
+      "password" : "leo10",
+      "tags" : [ "champions", "film", "psg" ],
+      "wallet" : 0.3,
+      "transation" : {
+        "increase759-1" : 0.0,
+        "increase114-1" : 0.0
+      }
+    },
+    "Z.ibrahimovic" : {
+      "nickname" : "Z.ibrahimovic",
+      "password" : "z11",
+      "tags" : [ "champions", "cucina", "film", "milan" ],
+      "wallet" : 0.0,
+      "transation" : { }
+    },
+    "F.chiesa" : {
+      "nickname" : "F.chiesa",
+      "password" : "f22",
+      "tags" : [ "juve", "italia", "cucina" ],
+      "wallet" : 0.0,
+      "transation" : { }
+    }
+  }
+}

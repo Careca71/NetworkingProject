@@ -1,0 +1,20 @@
+#Indirizzo del server
+SERVER=192.168.43.32
+
+#Porta TCP del server
+TCPPORT=8080
+
+#Porta RMI REGISTER
+RMIPORT=3000
+
+#Porta notify rmi
+NOTIFYPORT=3001
+
+#Host su cui si trova il registry
+REGHOST=localhost
+
+#Porta del registry RMI
+REGPORT=7777
+
+#Timeout della socket
+TIMEOUT=100000

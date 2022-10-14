@@ -1,0 +1,17 @@
+JC = javac
+LIBS = -cp jackson-databind-2.9.5.jar:jackson-core-2.9.5.jar:jackson-annotations-2.9.0.jar 
+JE = java
+
+.PHONY: server client
+
+default:
+		$(JC) $(LIBS)  ./Interfaces/*.java ./Classes/*.java ./Utils/*.java ./Server/*.java ./Client/*.java
+
+server:
+		$(JE) $(LIBS)  ./Server/Server_Configfile.txt
+
+client:
+		$(JE) $(LIBS) client.MainClass
+
+clean:
+		-rm -f client/*.class myException/*.class server/*.class users/*.class *AND*

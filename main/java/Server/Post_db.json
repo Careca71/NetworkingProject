@@ -1,0 +1,63 @@
+{
+  "posts" : [ {
+    "id" : 192,
+    "author" : "C.ronaldo",
+    "title" : "SIUUUUUU",
+    "text" : "yo estoy aquiii",
+    "n_iteration" : 2,
+    "guadagno" : 1.3862943611198906,
+    "new_persons_like" : 0,
+    "new_personsComment" : 0,
+    "same_personComment" : 1,
+    "rewin_user" : [ ],
+    "like" : [ 1 ],
+    "nComments" : 0,
+    "list_userLike" : [ "L.messi" ],
+    "comments" : [ "L.messi | hai visto la mia tripletta?" ]
+  }, {
+    "id" : 849,
+    "author" : "C.ronaldo",
+    "title" : "Vacanza",
+    "text" : "Si lavora anche a ibiza",
+    "n_iteration" : 2,
+    "guadagno" : 1.6931471805599454,
+    "new_persons_like" : 0,
+    "new_personsComment" : 0,
+    "same_personComment" : 0,
+    "rewin_user" : [ ],
+    "like" : [ 1 ],
+    "nComments" : 0,
+    "list_userLike" : [ "L.messi" ],
+    "comments" : [ ]
+  }, {
+    "id" : 759,
+    "author" : "L.messi",
+    "title" : "GOLD7",
+    "text" : "oggi ho vinto il mio settimo pallone d'oro",
+    "n_iteration" : 1,
+    "guadagno" : 0.0,
+    "new_persons_like" : 0,
+    "new_personsComment" : 0,
+    "same_personComment" : 0,
+    "rewin_user" : [ ],
+    "like" : [ ],
+    "nComments" : 0,
+    "list_userLike" : [ ],
+    "comments" : [ ]
+  }, {
+    "id" : 114,
+    "author" : "L.messi",
+    "title" : "ciao barca",
+    "text" : "oggi si conclude la mia avvenutra al barcellona",
+    "n_iteration" : 1,
+    "guadagno" : 0.0,
+    "new_persons_like" : 0,
+    "new_personsComment" : 0,
+    "same_personComment" : 0,
+    "rewin_user" : [ ],
+    "like" : [ ],
+    "nComments" : 0,
+    "list_userLike" : [ ],
+    "comments" : [ ]
+  } ]
+}

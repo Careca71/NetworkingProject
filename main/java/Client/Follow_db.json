@@ -1,0 +1,20 @@
+{
+  "map_db" : {
+    "C.ronaldo" : {
+      "followers" : [ "Z.ibrahimovic" ],
+      "follow" : [ ]
+    },
+    "L.messi" : {
+      "followers" : [ "C.ronaldo" ],
+      "follow" : [ "C.ronaldo" ]
+    },
+    "Z.ibrahimovic" : {
+      "followers" : [ "C.ronaldo" ],
+      "follow" : [ "C.ronaldo" ]
+    },
+    "F.chiesa" : {
+      "followers" : [ "C.ronaldo" ],
+      "follow" : [ ]
+    }
+  }
+}
